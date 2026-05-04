@@ -30,8 +30,8 @@
 ---
 
 ### <div align="center">
-  <p>🎵 <b>Recently Played on Spotify</b></p>
+  <p>🎵 <b>Ouvindo agora no Spotify</b></p>
   <a href="https://open.spotify.com/user/pedrovisque">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=pedrovisque&count=5&unique=false" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=pedrovisque&count=1&unique=true" alt="Spotify"  />
   </a>
 </div>
