@@ -28,16 +28,11 @@
   </picture>
 </div>
 
-### <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pedro-ramoss&show_icons=true&theme=dracula&count_private=true" height="150" alt="github stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-ramoss&layout=compact&theme=dracula&hide=html,css" height="150" alt="top langs" />
-</div>
-
 ---
 
 ### <div align="center">
-  <p>🎵 <b>Ouvindo agora:</b></p>
+  <p>🎵 <b>Recently Played on Spotify</b></p>
   <a href="https://open.spotify.com/user/pedrovisque">
-    <img src="https://novatide-spotify-readme.vercel.app/api/now-playing?user=pedrovisque" alt="Spotify Now Playing" />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=pedrovisque&count=5&unique=false" alt="Spotify recently played"  />
   </a>
 </div>
