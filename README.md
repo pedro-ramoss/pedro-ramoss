@@ -16,12 +16,15 @@
 
 ---
 
-### <div align="center">
+<div align="center">
   <img src="https://streak-stats.demolab.com?user=pedro-ramoss&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ### <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pedro-ramoss&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="github stats" />
+  <!-- Estatísticas Gerais -->
+  <img src="https://github-readme-stats.vercel.app/api?username=pedro-ramoss&show_icons=true&theme=dracula&count_private=true" height="150" alt="github stats" />
+  <!-- Linguagens mais usadas -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-ramoss&layout=compact&theme=dracula&hide=html,css" height="150" alt="top langs" />
 </div>
 
 ---
@@ -29,6 +32,6 @@
 ### <div align="center">
   <p>🎵 <b>Ouvindo agora:</b></p>
   <a href="https://open.spotify.com/user/pedrovisque">
-    <img src="https://novatide-spotify-readme.vercel.app/api/now-playing?user=pedrovisque" alt="Spotify Now Playing" />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=pedrovisque&count=1&unique=true&width=500" alt="Spotify" />
   </a>
 </div>
