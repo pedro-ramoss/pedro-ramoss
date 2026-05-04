@@ -21,9 +21,15 @@
 </div>
 
 ### <div align="center">
-  <!-- Estatísticas Gerais -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pedro-ramoss/pedro-ramoss/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pedro-ramoss/pedro-ramoss/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pedro-ramoss/pedro-ramoss/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+### <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pedro-ramoss&show_icons=true&theme=dracula&count_private=true" height="150" alt="github stats" />
-  <!-- Linguagens mais usadas -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-ramoss&layout=compact&theme=dracula&hide=html,css" height="150" alt="top langs" />
 </div>
 
@@ -32,6 +38,6 @@
 ### <div align="center">
   <p>🎵 <b>Ouvindo agora:</b></p>
   <a href="https://open.spotify.com/user/pedrovisque">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=pedrovisque&count=1&unique=true&width=500" alt="Spotify" />
+    <img src="https://novatide-spotify-readme.vercel.app/api/now-playing?user=pedrovisque" alt="Spotify Now Playing" />
   </a>
 </div>
