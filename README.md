@@ -1,16 +1,36 @@
-## Hi there 👋
+<h1 align="center">Olá, eu sou o Pedro! 👋</h1>
 
-<!--
-**pedro-ramoss/pedro-ramoss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### <div align="center">
+  Olá! Sou um entusiasta de programação e tecnologia. Já possuo uma graduação e atualmente estou focado na minha segunda faculdade, cursando Ciência da Computação com ênfase em Inteligência Artificial.
+</div>
 
-Here are some ideas to get you started:
+### <div align="center">
+  <img src="https://skillicons.dev/icons?i=py,linux,arch,vscode,statsmodels,pydantic" height="60" alt="tech stack" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### <div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+</div>
+
+---
+
+### <div align="center">
+  <img src="https://streak-stats.demolab.com?user=pedro-ramoss&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+### <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pedro-ramoss/pedro-ramoss/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pedro-ramoss/pedro-ramoss/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/pedro-ramoss/pedro-ramoss/output/pacman-contribution-graph.svg">
+</picture>
+
+---
+
+### <div align="center">
+  <p>🎵 <b>O que ando ouvindo no Spotify</b></p>
+  <a href="https://open.spotify.com/user/pedrovisque">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=pedrovisque&count=5&unique=true&width=600" alt="Spotify recently played" />
+  </a>
+</div>
