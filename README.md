@@ -20,17 +20,15 @@
   <img src="https://streak-stats.demolab.com?user=pedro-ramoss&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-### <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pedro-ramoss/pedro-ramoss/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pedro-ramoss/pedro-ramoss/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/pedro-ramoss/pedro-ramoss/output/pacman-contribution-graph.svg">
-</picture>
+### <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pedro-ramoss&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="github stats" />
+</div>
 
 ---
 
 ### <div align="center">
-  <p>🎵 <b>O que ando ouvindo no Spotify</b></p>
+  <p>🎵 <b>Ouvindo agora:</b></p>
   <a href="https://open.spotify.com/user/pedrovisque">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=pedrovisque&count=5&unique=true&width=600" alt="Spotify recently played" />
+    <img src="https://novatide-spotify-readme.vercel.app/api/now-playing?user=pedrovisque" alt="Spotify Now Playing" />
   </a>
 </div>
