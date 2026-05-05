@@ -38,6 +38,15 @@
 
 ---
 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pedro-ramoss/pedro-ramoss/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pedro-ramoss/pedro-ramoss/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/pedro-ramoss/pedro-ramoss/output/pacman-contribution-graph.svg">
+</picture>
+
+---
+
 ### <div align="center">
   <p>🎵 <b>Ouvindo agora no Spotify</b></p>
   <a href="https://open.spotify.com/user/pedrovisque">
