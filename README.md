@@ -1,55 +1,57 @@
-<h1 align="center">Olá, eu sou o Pedro! 👋</h1>
+<h1 align="center">Pedro Henrique 👋</h1>
 
-### <div align="center">
-  Olá! Sou um entusiasta de programação e tecnologia. Já possuo uma graduação e atualmente estou focado na minha segunda faculdade, cursando Ciência da Computação com ênfase em Inteligência Artificial.
-</div>
+<h3 align="center">
+  Data Engineering • Python • SQL • AI
+</h3>
 
----
+<p align="center">
+  Desenvolvedor focado em Engenharia de Dados, construção de pipelines, processamento de dados e automação.
+  <br>
+  Formado em Análise e Desenvolvimento de Sistemas e atualmente cursando Ciência da Computação.
+</p>
 
-<div align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white&style=for-the-badge" height="40" alt="r logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=white&style=for-the-badge" height="40" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=black&style=for-the-badge" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/RStudio-75AADB?logo=rstudioide&logoColor=black&style=for-the-badge" height="40" alt="rstudio logo"  />
-</div>
-
----
-
-### <div align="center">
+<p align="center">
   <a href="https://www.linkedin.com/in/pedro-ramoss/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://discord.com/users/pedrovisque">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo" />
-  </a>
-  <a href="https://www.instagram.com/pedro_ramoss/">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" />
-  </a>
-</div>
+</p>
 
 ---
 
+## 👨‍💻 Sobre mim
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pedro-ramoss/pedro-ramoss/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pedro-ramoss/pedro-ramoss/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/pedro-ramoss/pedro-ramoss/output/pacman-contribution-graph.svg">
-</picture>
+- 🎓 Graduado em Análise e Desenvolvimento de Sistemas
+- 🎓 Cursando Ciência da Computação
+- 📊 Foco atual em Engenharia de Dados
+- 🤖 Interesse em Inteligência Artificial e Machine Learning
+- 🐧 Utilizo Linux como ambiente principal de desenvolvimento
+- 🏗️ Desenvolvendo projetos de Data Engineering de ponta a ponta
+- 📚 Estudando arquitetura de dados, pipelines, bancos de dados, testes e automação
 
 ---
 
-### <div align="center">
-  <p>🎵 <b>Ouvindo agora no Spotify</b></p>
-  <a href="https://open.spotify.com/user/pedrovisque">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=pedrovisque&count=1&unique=true" alt="Spotify"  />
-  </a>
-</div>
+## 🚀 Projeto em destaque
+
+### 🎬 Movie Data Warehouse
+
+Pipeline de Engenharia de Dados desenvolvido para coletar, processar, armazenar e transformar dados de filmes utilizando dados da TMDB.
+
+Arquitetura planejada:
+
+```text
+TMDB API
+   ↓
+Python / Requests
+   ↓
+Bronze Layer
+Raw JSON
+   ↓
+PostgreSQL
+   ↓
+Silver Layer
+dbt
+   ↓
+Gold Layer
+Dimensional Model
+   ↓
+Analytics
