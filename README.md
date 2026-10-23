@@ -1,43 +1,118 @@
-# Hi, I'm Pedro Henrique 👋
+<!-- GitHub Profile README · Pedro Henrique | github.com/pedro-ramoss -->
 
-### Data Engineering | Python | SQL | ETL/ELT
+<div align="center">
 
-I'm a Computer Science student focused on **Data Engineering**, building projects that simulate real-world data pipelines and data platforms.
+<img width="100%" alt="Pedro Henrique — Data Engineering" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0B1220,55:164E7A,100:0891B2&amp;height=250&amp;section=header&amp;text=PEDRO%20HENRIQUE&amp;fontSize=48&amp;fontColor=FFFFFF&amp;animation=fadeIn&amp;fontAlignY=37&amp;desc=DATA%20ENGINEERING%20%7C%20PYTHON%20%7C%20SQL&amp;descAlignY=58&amp;descSize=19&amp;descColor=CDECF5" />
 
-My current focus is developing strong skills in **Python, SQL, data modeling, ETL/ELT, orchestration, testing and containerization**.
----
-## 🛠️ Tech Stack
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-### Data Engineering
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+<a href="https://github.com/pedro-ramoss">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=500&amp;size=17&amp;duration=3300&amp;pause=1100&amp;color=22D3EE&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Building+reliable+data+pipelines;From+raw+APIs+to+analytics-ready+data;Learning+by+building+real+projects" alt="Animated introduction" />
+</a>
 
-### Python & Data
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Requests](https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-### DevOps & Testing
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-### Environment & Tools
+<a href="https://github.com/pedro-ramoss?tab=repositories"><img src="https://img.shields.io/badge/Explore_my_projects-0B1220?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore my repositories" /></a>
+<img src="https://img.shields.io/badge/Open_to_Data_Engineering_roles-0891B2?style=for-the-badge&amp;logoColor=white" alt="Open to Data Engineering roles" />
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-## 📫 Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINK_LINKEDIN)
+<a href="#-about-me">About</a>  • 
+<a href="#-featured-projects">Projects</a>  • 
+<a href="#-tech-stack">Tech Stack</a>  • 
+<a href="#-github-activity">Activity</a>  • 
+<a href="#-connect">Connect</a>
+</div>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEU_USUARIO)
+👨‍💻 About Me
+I'm Pedro Henrique, a Computer Science student focused on Data Engineering. I build hands-on projects that turn data from APIs into structured, tested and analytics-ready datasets.
 
----
+My main interests are Python, SQL, data modeling, ETL/ELT, data quality, orchestration and infrastructure. I care about understanding not just how a pipeline works, but why each component belongs in the architecture.
+- 🎓 Background: Computer Science student · Degree in Systems Analysis and Development
+- 🧱 What I build: End-to-end data pipelines, data warehouses and automated data workflows
+- 🔭 Current focus: Streaming data with Twitch API, Docker and Apache Kafka
+- 🎯 Goal: Start my career in Data Engineering and keep growing through real projects
+🚀 Featured Projects
+🎬 Movie Data Warehouse
 
-> Building projects, learning continuously and turning data into reliable systems.
+
+An end-to-end batch data pipeline using movie data from the TMDB API. Raw JSON responses are preserved, loaded into PostgreSQL, transformed with dbt and orchestrated with Apache Airflow.
+
+Architecture:
+TMDB API → Python → Bronze (JSON) → PostgreSQL → dbt (Silver / Gold)
+                                                ↑
+                                      Apache Airflow orchestration
+Highlights: API ingestion · Bronze/Silver/Gold architecture · dimensional modeling · data quality tests · execution metadata · idempotent loads · Docker
+
+Stack: Python SQL PostgreSQL dbt Apache Airflow Docker pytest
+
+→ Explore the project and its architecture
+
+🎮 Twitch Streaming Data Pipeline
+
+
+A streaming-focused project starting with Twitch Helix API ingestion and automated Python tests. The next development phase is connecting data ingestion to Apache Kafka for event-based processing.
+
+Currently implemented: Twitch API client · JSON storage · pytest tests · Docker Compose configuration
+
+Next steps: Kafka producers/consumers · streaming pipeline design · downstream processing
+
+Stack: Python REST API pytest Docker · learning: Kafka
+
+→ Follow the project development
+🛠️ Tech Stack
+<div align="center">
+
+Languages & Data
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="SQL" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&amp;logo=pandas&amp;logoColor=white" alt="Pandas" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&amp;logo=numpy&amp;logoColor=white" alt="NumPy" />
+
+
+Data Engineering & Orchestration
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&amp;logo=dbt&amp;logoColor=white" alt="dbt" />
+<img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&amp;logo=apacheairflow&amp;logoColor=white" alt="Apache Airflow" />
+<img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&amp;logo=fastapi&amp;logoColor=white" alt="REST APIs" />
+
+
+Development, Testing & Infrastructure
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&amp;logo=pytest&amp;logoColor=white" alt="pytest" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&amp;logo=ubuntu&amp;logoColor=white" alt="Ubuntu" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&amp;logo=visualstudiocode&amp;logoColor=white" alt="VS Code" />
+
+
+
+
+Currently learning & exploring
+<img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&amp;logo=apachekafka&amp;logoColor=white" alt="Apache Kafka (learning)" />
+<img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&amp;logo=apachespark&amp;logoColor=white" alt="Apache Spark (learning)" />
+
+</div>
+
+📊 GitHub Activity
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=pedro-ramoss&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=22D3EE&amp;text_color=C9D1D9&amp;icon_color=38BDF8" alt="GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-ramoss&amp;layout=compact&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=22D3EE&amp;text_color=C9D1D9" alt="Most used public repository languages" />
+
+
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=pedro-ramoss&amp;bg_color=0d1117&amp;color=c9d1d9&amp;line=22d3ee&amp;point=ffffff&amp;area=true&amp;hide_border=true" alt="GitHub contribution activity graph" />
+
+</div>
+
+<sub>Activity cards are generated by third-party services using public GitHub data and may occasionally be unavailable.</sub>
+🤝 Connect
+<div align="center">
+
+<a href="https://github.com/pedro-ramoss"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub profile" /></a>
+<a href="https://github.com/pedro-ramoss?tab=repositories"><img src="https://img.shields.io/badge/Portfolio-0E7490?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="See portfolio projects" /></a>
+
+
+
+Turning raw data into reliable and meaningful systems.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0B1220,55:164E7A,100:0891B2&amp;height=110&amp;section=footer" alt="Footer decoration" />
+
+</div>
+
+<!-- LinkedIn link intentionally omitted because your actual profile URL was not supplied. -->
